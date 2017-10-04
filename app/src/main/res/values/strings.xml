@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginLinearLayout</string>
+    <string name="txvSignIn">Aceder</string>
+</resources>
