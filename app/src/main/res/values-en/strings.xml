@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">LoginLinearLayout</string>
     <string name="txvSignIn">Sign In</string>
+    <string name="chkRemenber">Remenber me</string>
+    <string name="txvSignup">Sing Up</string>
+    <string name="txvUser">User</string>
+    <string name="txvPassword">Password</string>
 </resources>
