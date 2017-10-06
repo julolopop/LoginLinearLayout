@@ -13,6 +13,7 @@
         android:layout_width="320dp"
         android:layout_height="320dp"
         app:srcCompat="@drawable/logo"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center"
+        tools:ignore="ContentDescription" />
 
 </FrameLayout>
